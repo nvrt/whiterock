@@ -1,0 +1,28 @@
+#bdr {
+	border-right: 2px solid grey;
+	padding:5px;
+
+}
+#bdrb {
+	border-bottom: 1px solid grey;
+	padding:15px;
+
+}
+
+#bdrt {
+	border-top: 1px solid grey;
+	padding:25px;
+
+}
+
+#ff1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+#ff2 {
+font-family: 'Roboto', sans-serif;
+}
+
+#ff3 {
+font-family: 'Raleway', sans-serif;
+}
